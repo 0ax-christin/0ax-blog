@@ -1,5 +1,4 @@
 # writeups
-To start getting into and solving CTFs and explain in detail concepts surrounding each challenge. Will focus on forensics but this may expand
-
+To explore various different topics of study that interest me
 
 Access website: https://christinabrahamalex.github.io/writeups/
